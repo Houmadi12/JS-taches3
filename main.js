@@ -1,4 +1,4 @@
-let age = parseInt(prompt('Saisissez ton age ?'));
+let age = parseInt(prompt('Saisie ton age ?'));
 
 if(isNaN(age)){
     alert(`L'age est invalide !`);
